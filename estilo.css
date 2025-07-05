@@ -1,0 +1,45 @@
+body {background-color: rgb(191, 122, 236);}
+
+div.centralizada {text-align: center;}
+
+.marcado {
+    display: inline-block;
+    color: rgb(38, 37, 107);
+    padding: 5px;
+    margin: 30px;
+}    
+
+.justificado {
+    text-align: justify;
+    font-size: 20px;
+}
+
+ul li {
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+ul {margin: 30px;}
+
+.img-base {
+    width: 350px;
+    height: 150px;
+}
+
+.img-borda {
+    border-radius: 15px;
+}
+
+table {
+    margin: 30px;
+    border: solid blue
+}
+
+td {text-align: center;
+    padding: 10px;
+    background-color: rgb(25, 143, 25);
+}
+
+th {background-color: rgb(33, 161, 1);}
+
+a:hover {color: rgb(146, 22, 22);}
